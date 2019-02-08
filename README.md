@@ -2,7 +2,7 @@
 
 > Curso para capacitação utilizando as ferramentas [MongoDB](https://www.mongodb.com/), [ExpressJS](https://expressjs.com/pt-br/), [AngularJS](https://angularjs.org) e [NodeJS](https://nodejs.org/en/)
 
-Nessa capacitação vamos utilizar essas tecnologias para API's RESTful e persistir dados em uma base não relacional. Vamos também criar alguns formulários utilizando AngularJS para consumir as API's e também criar alguns formulários utilizando uma view engine chamada [PUGJS](https://pugjs.org/api/getting-started.html)
+Nessa capacitação vamos utilizar essas tecnologias para API's RESTful e persistir dados em uma base não relacional. Vamos também criar alguns formulários utilizando AngularJS para consumir as API's e também criar alguns formulários utilizando uma view engine chamada [PugJS](https://pugjs.org/api/getting-started.html)
 
 ### O Projeto
 A ideia do projeto é uma agenda particular, onde primeiramente o usuário deve-se cadastrar no sistema e logo após fazer o login. Dentro de sua área restrita, poderá realizar a alteração do seu perfil, como adicionar sua foto, seu e-mail, telefone, etc. Além disso, poderá fazer o cadastro de seus contatos em particular, adicionando endereços, telefones, fotos, etc.
